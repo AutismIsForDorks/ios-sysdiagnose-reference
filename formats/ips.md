@@ -359,5 +359,5 @@ Common notes:
 ## See Also
 
 - [../structure/crashes_and_spins.md](../structure/crashes_and_spins.md) - Crash directory
-- [../analysis/crash-analysis.md](../analysis/crash-analysis.md) - Analysis workflows
-- [spindump.md](spindump.md) - Spindump format
+- [../analysis/common-queries.md](../analysis/common-queries.md) - Query reference
+- [tracev3.md](tracev3.md) - Log format

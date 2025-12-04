@@ -357,4 +357,4 @@ PowerLog can grow large (10-40MB). Apple uses:
 
 - [../databases/schemas/powerlog.md](../databases/schemas/powerlog.md) - Full schema reference
 - [../subsystems/intelligence.md](../subsystems/intelligence.md) - AI metrics tables
-- [../analysis/battery-analysis.md](../analysis/battery-analysis.md) - Battery forensics
+- [../analysis/delta-comparison.md](../analysis/delta-comparison.md) - Archive comparison
